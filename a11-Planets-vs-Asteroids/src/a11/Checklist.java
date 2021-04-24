@@ -138,9 +138,9 @@ public class Checklist {
  * 		- Show & explain the two different Asteroid types: Basic & Alkali
  * 		- Demonstrate the "Game Over" situation
  * 
- * [ ] Archive this file somehow or turn it into a README that goes with the game - I should start taking better notes in these checklists
+ * [X] Archive this file somehow or turn it into a README that goes with the game - I should start taking better notes in these checklists
  * 		and then keep the checklist after I'm done with it.
  * 
- * [ ] Upload this game to GitHub - include a README that briefly explains the project and credits some of the code to J.
+ * [X] Upload this game to GitHub - include a README that briefly explains the project and credits some of the code to J.
  * 
  */
