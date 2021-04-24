@@ -1,2 +1,3 @@
 # Planets-vs-Asteroids
-A simple game made for my CS 1410 class.
+A simple game made for my CS 1410 class - Introduction to Object Oriented Programming.
+
